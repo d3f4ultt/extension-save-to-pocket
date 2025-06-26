@@ -32,6 +32,15 @@
     },
     {
       "matches": [
+        "*://*/*"
+      ],
+      "js": [
+        "pages/bookmark/button.js"
+      ],
+      "css": []
+    },
+    {
+      "matches": [
         "*://getpocket.com/extension_login_success*"
       ],
       "js": [
