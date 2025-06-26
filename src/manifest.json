@@ -22,8 +22,9 @@
       "matches": [
         "*://*/*"
       ],
-      "js": [
-        "pages/injector/content.js"
+        "js": [
+        "pages/injector/content.js",
+        "pages/bookmark/button.js"
       ],
       "css": [
         "assets/fonts/fonts.css",
